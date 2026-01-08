@@ -1,4 +1,4 @@
-# Google Maps-dataset-samples
+# Google Maps データセットサンプル
 
 <h2>1001件のGoogle Mapsビジネスのサンプルデータセット</h2>
 
